@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /flag.txt
+
+# First part of the flag: FLAG{this_is_the_first_
